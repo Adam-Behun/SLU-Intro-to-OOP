@@ -1,0 +1,14 @@
+---------------------------------------
+Authors: adam.behun@slu.edu
+---------------------------------------
+Approximate number of hours spent: 2
+---------------------------------------
+Citation of any help received from (approved) sources: Used only book and resources available in class
+---------------------------------------
+Brief overview of program, including any known bugs:
+At first I am inheriting from the class World and creating a subclass of it called Oasis. This program has 3 functions: addEgg() which adds eggs to chosen positions on the table,
+eggLocations(), which adds the egg to the set of eggs locations so taht we know where the eggs are located, getScore(), this function updates the score of a player which "hits" the egg.
+---------------------------------------
+Other comments or response program-specific questions:
+I do not have any questions about this program.
+---------------------------------------

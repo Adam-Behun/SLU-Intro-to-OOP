@@ -1,0 +1,17 @@
+---------------------------------------
+Authors: adam.behun@slu.edu
+-----------------------------------------------------------------------------------------------
+Approximate number of hours spent:
+4
+
+-----------------------------------------------------------------------------------------------
+Citation of any help received from (approved) sources:
+I used the textbook and the things I have learned in class to finish this project.
+
+-----------------------------------------------------------------------------------------------
+Brief overview of program, including any known bugs:
+This program has a couple of functions which simulate a simple game where the player is allowed to move on the board. It uses the funtion playerLocation to find the player within the table and then uses commands such as d, r, l, u, m to specifically move it to the position (this movements were provided). I do not think that my program is able to stop the player from moving of the table, I did not figure out how this works and I do not really understand it. 
+
+-----------------------------------------------------------------------------------------------
+Other comments or response program-specific questions:
+I was not able to finish any of the extra credit tasks, and I do not think that I am checking all the required specifics in the functions -> I did not figure out how to make sure that the player does not move of the table. I struggled quite a lot with this one and am not really sure whether it works properly. Maybe, it is even better than I expect, but probably not

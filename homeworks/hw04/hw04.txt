@@ -1,0 +1,27 @@
+Adam Behun - hw04
+
+A) In order to create a canvas upon whcih we can draw we have to first import the module cs1graphics which will show python what canvas class is. Canvas class is not built-in.
+Solution: from cs1graphics import * 
+B)Solution: 1. Add 'red' not red in the statement -> sq.setFillColor('red')
+	    2. We could also use RGB value -> sq.setFillColor((255, 0, 0))
+C)This is an example of overlapping shapes (By default, the depth is determined by order in which shapes are added to the canvas with newly added shapes appearing on top of previoulsy added shapes)
+Solution: 1. We can use the setDepth method to put the blue circle "closer" to us cir.setDepth(45) as all shapes are by default set to depth 50
+	  2. We can reorder the statements so that the creation of the circle would be after the creation of the square in our code
+D) We are trying to create 2 rectangles with the same name and that cannot work - 2 objects need different names because otherwise python does not know where to find them.
+Solution: 
+from cs1graphics import *
+can = Canvas(200,150)
+
+rect = Rectangle()
+rect.setWidth(50)
+rect.setHeight(75)
+rect.moveTo(50,50)
+
+rect1 = Rectangle()
+rect1.setWidth(100)
+rect1.setHeight(25)
+rect1.moveTo(140,100)
+
+can.add(rect)
+can.add(rect1)
+

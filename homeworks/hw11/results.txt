@@ -1,0 +1,2 @@
+Average number of flips: 1.9881
+Maximum number of flips: 14

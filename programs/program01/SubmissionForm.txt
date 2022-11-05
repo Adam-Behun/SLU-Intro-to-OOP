@@ -1,0 +1,28 @@
+---------------------------------------
+Author: 
+adam.behun@slu.edu
+
+---------------------------------------
+Approximate number of hours spent: 
+6
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+I only used the textbook for help, chapters 4 and 5 specifically. 
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+This program shows my ability to use cs1graphics module and time module to create a short animation including instances of distinct classes (Cirlce, Rectangle, Polygon, and others). In this program there are 6 distinct frames:
+
+1. Background including sun, trees, and grass
+2. Dog is added to the scene
+3. Cat is added to the scene
+4. Dog moves away from the scene
+5. Cat moves away from the scene
+6. Background including sun, trees, and grass
+
+The smalltree layer (lines 35 - 45) is a special type of bush with a transparent trunk in a shape of a Rectangle 3*'Ha'
+---------------------------------------
+Other comments or response program-specific questions:
+I did not find an easy way to clone the sunrays - rotations and moving were too confusing. I also checked the book but they created new sunrays as different instances of a Path class as well. Would you suggest to clone them or create them as new ones? Is it that big of a difference in the length of the code or it does not really matter? I would like to learn how many lines is too much for a project like this, basically. 
+---------------------------------------

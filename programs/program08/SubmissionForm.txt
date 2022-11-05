@@ -1,0 +1,13 @@
+---------------------------------------
+Authors: adam.behun@slu.edu
+---------------------------------------
+Approximate number of hours spent: 5
+---------------------------------------
+Citation of any help received from (approved) sources: Tutoring session and office hours
+---------------------------------------
+Brief overview of program, including any known bugs:
+This prgram first, creates the class Dog. In this class, I put all the parts of the dog straight to the canvas (head, body, tail, textbox, left leg, right leg, eye). Then, in the functions part I made 4 distinct behaviors. The first function, opens and closes the eye. Second, changes the direction of where the dog is looking. Third, moves the tail up and down and the fourth is a barking function. 
+---------------------------------------
+Other comments or response program-specific questions:
+I do not have any questions about this program.
+---------------------------------------

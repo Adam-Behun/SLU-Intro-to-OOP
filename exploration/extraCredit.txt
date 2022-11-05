@@ -1,0 +1,7 @@
+1. In-line comments
+   I think that it would be usefull to add in-line comments to the code as it helps with the explanation of what the code is supposed to do. Even though the code is fairly short, I think it is a good practice to ensure clarity and readability.
+
+2. Docstrings
+   As I saw in the example you provided for us as how this code could be done (Michael Goldwasser solution), I think it is a good idea to add docstrings, again to ensure that we all uderstand what this program is supposed to do. 
+
+3. It would be easier to create the function def pluralNoun(word) if we would have the function, _generallyAddS. With that function we would be able to make the consequent ones more concise and aslo readable. 

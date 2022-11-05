@@ -1,0 +1,27 @@
+---------------------------------------
+Authors: adam.behun@slu.edu
+
+---------------------------------------
+Approximate number of hours spent: 
+10
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+I only used the textbook for help.
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+This program first takes 2 inputs from the user, an original sequence of a DNA and a pattern which is found in the original sequence first as a original and then as a reversed version, this program then creates a mutation of this whole original DNA sequence.
+
+This works in a few steps: 
+
+1. Function which makes a reversed version of an pattern input
+2. Split method which breaks down the inputed DNA sequence into two parts
+3. Split method which breaks down the leftover sequence
+4. Reversing the identified middle part of a DNA sequence -> middle part is between pattern and reversed pattern
+5. Printing individual requirements
+
+---------------------------------------
+Other comments or response program-specific questions:
+I am wondering whether there is a bug in the program that would show that for some instances it is not working.
+---------------------------------------

@@ -1,0 +1,22 @@
+---------------------------------------
+Authors: 
+adam.behun@slu.edu
+
+---------------------------------------
+Approximate number of hours spent: 
+8
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+I used the book for help. 
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+	At first, this program keeps a variable size which enables us to scale the whole picture into dimensions we choose (I could have also added that as an input that we would chose the size variable). 
+	Then this program creates a board for the Backgammon game, starting with the background in the given colors, continuing with the triangles, and finishing with the checkers. I was using for loops as much as I could to reduce redundancy in my code, as some of the features of this picture repeat themselves. 
+	I do not think that the program has any bugs, rather it would be a matter of desing (colors, borders, sizes) or code redundancy (I believe that there are many more ways to make this code more efficient). 
+
+---------------------------------------
+Other comments or response program-specific questions:
+I would be interested to see what the most efficient way to build this gameboard is. 
+---------------------------------------

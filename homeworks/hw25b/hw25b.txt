@@ -1,0 +1,17 @@
+Adam Behun hw 25b
+
+i. myHouse is yourHouse
+    we are checking whether myHouse and yourHouse refer to the same object. Do they point at the same object?
+ii. myHouse == yourHouse
+    we are checking whether myHouse equals yourHouse. It can be different objects but we are checking whether they are equal. Can be different or same objects.
+iii. myHouse = yourHouse
+    we are assigning yourHouse to point to the same object as myHouse is pointing. They both now refer to the same object
+iv. myHouse = copy(yourHouse)
+    shallow copy of an object. no new object is created. we point to the same object with myHouse and yourHouse. we do not copy the values but a new reference is created
+v. myHouse = deepcopy(yourHouse)
+    deepcopy of an object. a new object is created. with deepcopy if we change the first object it does not impact the second (as opposed to
+    a shallow copy where if we change the first both myHouse and yourHouse will point at it). we copy all contents by value
+vi.
+    maybe we could create a new object and make myHouse and yourHouse point at it, reference to it
+        or maybe not I don't know
+    if object is a dictionary we can use its update function

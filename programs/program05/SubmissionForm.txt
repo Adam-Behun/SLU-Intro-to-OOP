@@ -1,0 +1,20 @@
+---------------------------------------
+Authors: adam.behun@slu.edu
+
+Approximate number of hours spent:
+6
+
+Citation of any help received from (approved) sources:
+
+I used the textbook and the things I have learned in class to finish this project.
+
+Brief overview of program, including any known bugs:
+
+This program first prints out the introduction (explanation of what it does and what it expects the user to do), 
+then it asks for simple input in a form of an interest rate and principal. Then, it computes end of year balance 
+(this was given and I did not any changes to the code which actually does the computation). 
+Interesting part of this project was to think about what the user might mess up and enter, and then working on the exceptions so that the program would work and eventually the user receives his/her desired output. 
+
+Other comments or response program-specific questions:
+
+I think this was the first time I have realized how difficult it is for a program to work with people as the programer must think about all the possibilities of what the user can input and then program the computer in such a way that the program and user find a common language and both get what they are looking for. 
